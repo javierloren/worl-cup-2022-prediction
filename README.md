@@ -1,1 +1,1 @@
-# worl-cup-2022-prediction
+# world-cup-2022-prediction
